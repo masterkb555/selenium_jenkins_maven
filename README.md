@@ -1,1 +1,2 @@
-# selenium_jenkins_maven
+# Selenium Jenkins Maven
+Repo to integrate Selenium with Maven and then with Jenkins to execute and test a Java code. For all users, Please keep the chromedriver file updated based on your chrome version.  Also you need to keep the chromedriver file in your base path else you will get an error.  In Case if you don't know your base path, please execute java -jar sel.jar and you will get the error stating the Chromedriver is not in that particular path.  Just get the path and keep your driver file there.
